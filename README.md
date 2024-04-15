@@ -1,0 +1,1 @@
+This  allows you to input temperatures in Celsius, Fahrenheit, or Kelvin, and instantly converts them into the other two units. Simply enter the temperature in your chosen unit, click "Convert", and you'll see the conversions displayed immediately. It's a handy way to quickly convert temperatures between different scales.
